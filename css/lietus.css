@@ -1,7 +1,7 @@
 body {
-    background-image: url("lietus13.jpg");
+    /*background-image: url("../img/city.jpg");*/
     background-position: center;
-    background-attachment: fixed;
+    /*background-attachment: fixed;*/
     width: 100%;
     height: 100%;
 }
