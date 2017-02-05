@@ -73,3 +73,6 @@ footer{
     font-size: 19px;
     position: relative;
 }
+div.hidden {
+    display: none
+}
