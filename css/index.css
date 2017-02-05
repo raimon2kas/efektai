@@ -68,10 +68,8 @@ footer{
     background-color: #444C75;
 }
 
-.article{
-
-    font-size: 19px;
-    text-wrap: normal;
+.article {
     text-align: center;
-
+    font-size: 19px;
+    position: relative;
 }
