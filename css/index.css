@@ -36,7 +36,7 @@
 header,footer {
     padding: 1em;
     color: white;
-    background-color: black;
+    background-color: #5c5d5e;
     text-align: center;
 }
 footer{
@@ -45,12 +45,12 @@ footer{
     width:100%;
     padding: 0.5em;
     color: white;
-    background-color: black;
+    background-color: #5c5d5e;
     text-align: center;
 }
 
 .button {
-    background-color: #000000;
+    background-color: #5c5d5e;
     border: none;
     color: white;
     padding: 15px 32px;
