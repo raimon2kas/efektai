@@ -34,7 +34,7 @@
     }
 }
 header,footer {
-    padding: 1.5em;
+    padding: 1em;
     color: white;
     background-color: black;
     text-align: center;
@@ -43,7 +43,7 @@ footer{
     position:absolute;
     bottom:0;
     width:100%;
-    padding: 1em;
+    padding: 0.5em;
     color: white;
     background-color: black;
     text-align: center;
