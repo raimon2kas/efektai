@@ -60,5 +60,10 @@ footer{
     font-size: 16px;
     margin: 4px 2px;
     cursor: hand;
+    border-radius: 15px;
 
+}
+.button:hover{background-color: dimgrey}
+.button:active{
+    background-color: #444C75;
 }
