@@ -69,9 +69,15 @@ footer{
 }
 
 .article {
+    font-family: Calibri;
     text-align: center;
     font-size: 19px;
     position: relative;
+    width: 400px;
+    height: 260px;
+    margin: 340px 10px;
+    padding: 10px 60px;
+    color: #444C75;
 }
 div.hidden {
     display: none
