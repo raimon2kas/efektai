@@ -75,10 +75,12 @@ footer{
     position: relative;
     width: 400px;
     height: 260px;
-    margin: 340px 10px;
     padding: 10px 60px;
     color: #444C75;
+    display:flex;
+    align-items:flex-end;
 }
+
 div.hidden {
     display: none
 }
