@@ -8,3 +8,9 @@ body {
 .knopke{
     vertical-align: 2em;
 }
+
+.lietutis{
+    position: fixed;
+    top: 0;
+    z-index: -1;
+}
