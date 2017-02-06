@@ -82,5 +82,7 @@ footer{
 }
 
 div.hidden {
-    display: none
+      display: none;
+    position: absolute;
 }
+
